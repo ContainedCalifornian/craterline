@@ -1,2 +1,3 @@
-# craterline
-CRATERLINE — artillery tower defense (Pocket Tanks meets tower defense). Source for review.
+# unused
+
+Empty placeholder. Safe to delete. No project files are in this repository.
